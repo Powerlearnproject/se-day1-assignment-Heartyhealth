@@ -21,7 +21,14 @@ Agile Methodologies (2001): Agile brought a new way of working where teams build
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-Re
+software Development Life Cycle (SDLC) includes:
+Planning: Defines project scope, objectives, and resources.
+Requirements Gathering: Collects and analyzes what the software must do.
+Design: Creates a blueprint for the system's architecture and components.
+Implementation: Developers write the code to build the software.
+Testing: Identifies and fixes bugs to ensure the software works correctly.
+Deployment: Releases the software to users in the production environment.
+Maintenance: Ongoing updates and bug fixes post-deployment.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 

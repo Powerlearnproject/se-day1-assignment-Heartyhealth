@@ -74,7 +74,14 @@ These testing types are critical in software quality assurance, helping to ident
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+Prompt engineering is the process of crafting precise and effective prompts to guide an AI model like ChatGPT to generate the desired output. This involves designing instructions or questions that are clear, specific, and unambiguous, ensuring the AI produces relevant, high-quality responses.
 
+Key Aspects of Prompt Engineering:
+Clarity: Ensuring the prompt leaves little room for misinterpretation.
+Specificity: Narrowing down the topic or task to avoid vague or overly broad responses.
+Context: Providing necessary background information to align the AI's output with the user's intent.
+Constraints: Setting limitations, such as word count or format, to control the scope of the response.
+Effective prompt engineering is crucial for maximizing the utility of AI, as it helps in obtaining accurate, useful, and contextually appropriate outputs.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague Prompt:

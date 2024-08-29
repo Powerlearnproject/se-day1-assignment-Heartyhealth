@@ -31,7 +31,11 @@ Deployment: Releases the software to users in the production environment.
 Maintenance: Ongoing updates and bug fixes post-deployment.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Waterfall is linear and sequential, with each phase completed before moving to the next. It's suitable for projects with well-defined, unchanging requirements, like construction or traditional software development.
 
+Agile is iterative and flexible, with work done in short cycles (sprints) allowing for frequent adjustments based on feedback. It's ideal for projects where requirements are expected to evolve, like software startups or mobile app development.
+
+Use Waterfall for projects with fixed scopes and clear timelines. Opt for Agile when adaptability and continuous stakeholder involvement are crucial.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 

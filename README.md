@@ -77,3 +77,17 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague Prompt:
+"Design a flyer for our event."
+
+Improved Prompt:
+"Design an A4-sized flyer for our charity run event on September 25th. Include the event name, date, time, location, and a call-to-action for registration. Use our brand colors and feature a motivational quote related to fitness."
+
+Explanation:
+The improved prompt is more effective because it:
+
+Specifies Format and Size: It clarifies the flyer should be A4-sized, avoiding any confusion about dimensions.
+Details Required Information: It lists the essential elements—event name, date, time, location, and registration call-to-action—ensuring nothing important is left out.
+Incorporates Branding: By specifying brand colors and a motivational quote, it aligns the design with the event's theme and brand identity.
+This guidance ensures the flyer is both informative and visually consistent with the brand, making it more effective for its purpose.
+

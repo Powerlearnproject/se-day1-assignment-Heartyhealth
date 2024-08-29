@@ -38,15 +38,30 @@ Agile is iterative and flexible, with work done in short cycles (sprints) allowi
 Use Waterfall for projects with fixed scopes and clear timelines. Opt for Agile when adaptability and continuous stakeholder involvement are crucial.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+Software Developer:
+Roles: Designs, codes, and maintains software applications. Implements features based on requirements and ensures the software functions correctly.
+Responsibilities: Writing and testing code, debugging, collaborating with other team members to understand requirements, and participating in code reviews.
+Quality Assurance (QA) Engineer:
+Roles: Ensures that the software meets quality standards and functions correctly through rigorous testing.
+Responsibilities: Developing and executing test plans, identifying and reporting bugs, validating fixes, and ensuring that software meets both functional and non-functional requirements.
+Project Manager:
+Roles: Oversees the project's progress and ensures it aligns with the project's goals, timeline, and budget.
+Responsibilities: Planning and scheduling tasks, managing resources, coordinating between teams, tracking project progress, and communicating with stakeholders to ensure project success.
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
-
+1:Changing requirement
+2:Tight deadline
+3:Technical Debt
+STRATEGIES FOR OVERCOMING CHALLENGES
+Effective Commuciation.
+Agile Methodologies.
+protization of task and regular reassesement of project.
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
 
 
 #Part 2: Introduction to AI and Prompt Engineering
